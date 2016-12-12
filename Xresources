@@ -58,3 +58,5 @@ URxvt.font: xft:Bitstream Vera Sans Mono:size=12:atialias=true:hinting=true,xft:
 !URxvt.boldfont: xft:Bitstream Vera Sans Mono:bold:size=12:atialias=true:hinting=true, xft:文泉驿等宽微米黑:style=BOld:size=12
 !加快启动
 URxvt.preeditType:Root
+!全屏fullscreen　yaourt
+!URxvt.keysym.F11: perl:fullscreen:switch
